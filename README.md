@@ -25,6 +25,9 @@ I design and **secure multi-cloud AI platforms** — LLM gateways, RAG systems, 
 - **Multi-cloud platform** — AWS · Azure · GCP, one control plane, Terraform + GitOps
 - **MLOps** — eval-gated deploys, drift detection, observability, FinOps
 
+### 🛡️ Flagship — **live now** ⭐
+**[Orkka AI Gateway](https://github.com/iam-kowshik/ai-gateway)** — open-source, multi-cloud LLM gateway for regulated industries: one OpenAI-compatible API across providers, with **automatic failover, in-path PII/PHI redaction, and compliance-grade audit logging.** → **[Star it ⭐](https://github.com/iam-kowshik/ai-gateway)**
+
 ### 🧰 Tech
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -37,9 +40,6 @@ I design and **secure multi-cloud AI platforms** — LLM gateways, RAG systems, 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
-
-### 🛡️ Flagship — *launching this month*
-**Orkka AI Gateway** — an open-source, multi-cloud LLM gateway for regulated industries: one OpenAI-compatible API across providers, with **automatic failover, semantic caching, in-path PII/PHI redaction, and compliance-grade audit logging**. *(Repo goes public shortly — watch this space.)*
 
 ### ✍️ Writing & links
 - 🌐 [orkkasolutions.com](https://orkkasolutions.com)
